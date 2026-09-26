@@ -13,10 +13,9 @@ h1 {
     font-size: 42px;
     color: #673174;
     
-    
 }
 
-nav {
+nav, nav a {
     background: #673174;
     font-family: Consolas, "Courier New", monospace;
     border-radius: 30px;
@@ -35,6 +34,9 @@ footer, footer p, footer address, footer a, footer time {
     font-size: 10px !important;
 }
 
+ul{
+    font-weight: bold;
+}
 
 
 
