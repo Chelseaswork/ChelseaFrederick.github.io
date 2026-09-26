@@ -28,9 +28,8 @@ section{
 
 }
 
-footer {
-font-size: 10px;
-
+footer p, footer a {
+    font-size: 10px;
 }
 
 
