@@ -20,16 +20,17 @@ nav {
     font-family: Consolas, "Courier New", monospace;
     border-radius: 30px;
     line-height: 1.6;
+    font-color: white;
     font-size: 10px;
 }
 
 section{
     background: #D3D3D3;
-
+    border-radius: 30px;
 
 }
 
-footer p, footer a {
+footer, footer p, footer address, footer a, footer time {
     font-size: 10px;
 }
 
