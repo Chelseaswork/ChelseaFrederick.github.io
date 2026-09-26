@@ -22,6 +22,7 @@ nav, nav a {
     line-height: 1.6;
     font-color: white !important;
     font-size: 10px;
+    text-decoration: none;
 }
 
 section{
