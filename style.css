@@ -18,7 +18,7 @@ h1 {
 nav {
     background: #673174;
     font-family: Consolas, "Courier New", monospace;
-    border-radius: 12px;
+    border-radius: 30px;
     line-height: 1.6;
 }
 
@@ -28,7 +28,7 @@ section{
 }
 
 footer {
-
+font-size: 10px;
 
 }
 
