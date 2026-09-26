@@ -21,7 +21,7 @@ nav {
     font-family: Consolas, "Courier New", monospace;
     border-radius: 30px;
     line-height: 1.6;
-    font-color: white;
+    font-color: white !important;
     font-size: 10px;
 }
 
