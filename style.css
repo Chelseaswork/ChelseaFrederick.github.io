@@ -1,5 +1,6 @@
 body {
-    
+    font-color: brown;
+    font-size: 20px;
 
 }
 
@@ -31,7 +32,7 @@ section{
 }
 
 footer, footer p, footer address, footer a, footer time {
-    font-size: 10px;
+    font-size: 10px !important;
 }
 
 
