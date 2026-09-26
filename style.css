@@ -1,22 +1,25 @@
 body {
-
+    
 
 }
 
 header {
-font-family: Helvetica, sans-serif;
-
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
 }
 
 h1 {
+    font-size: 42px;
     color: #673174;
-
+    
+    
 }
 
 nav {
     background: #673174;
     font-family: Consolas, "Courier New", monospace;
     border-radius: 12px;
+    line-height: 1.6;
 }
 
 section{
