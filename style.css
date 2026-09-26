@@ -16,6 +16,7 @@ h1 {
 nav {
     background: #673174;
     font-family: Consolas, "Courier New", monospace;
+    border-radius: 12px;
 }
 
 section{
