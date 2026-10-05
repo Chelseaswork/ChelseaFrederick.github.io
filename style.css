@@ -6,9 +6,20 @@ body {
 
 }
 
-nav_bar {
-
+#nav_bar {
+    list-style: none;
+    text-decoration: none;
+    gap: 20px;
     
+}
+nav, nav a {
+    background: #673174;
+    font-family: Consolas, "Courier New", monospace;
+    border-radius: 30px;
+    line-height: 1.6;
+    font-color: white !important;
+    font-size: 10px;
+    text-decoration: none;
 }
 
 header {
@@ -22,15 +33,6 @@ h1 {
     
 }
 
-nav, nav a {
-    background: #673174;
-    font-family: Consolas, "Courier New", monospace;
-    border-radius: 30px;
-    line-height: 1.6;
-    font-color: white !important;
-    font-size: 10px;
-    text-decoration: none;
-}
 
 section{
     background: #D3D3D3;
