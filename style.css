@@ -1,7 +1,14 @@
 body {
     font-color: brown;
     font-size: 20px;
+    max-width: 80%;
+    margin: auto;
 
+}
+
+nav_bar {
+
+    
 }
 
 header {
