@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang=”en”>
+       <link rel="stylesheet" href="style.css">
+<body>
+       
+<header>
+    <h1>
+        Chelsea Frederick
+    </h1>
+</header>
+
+       <nav id="nav_bar">
+         <ul>
+             <li><a href="https://chelseaswork.github.io/ChelseaFrederick.github.io/">Home</a></li>
+             <li><a href="https://chelseaswork.github.io/ChelseaFrederick.github.io/About">About</a></li>
+             <li><a href="#School">School</a></li>
+         </ul>
+       </nav>
+
+<aside> 
+       <section>
+                     <br>
+                     <h4>Images are of my work</h4>
+                           
+                                    
+              </section>
+       
+</aside>
+       
+<main>
+ <section>
+             <img src="AnimalCrossingConstructedPackaging-CoverSlideEDIT.png" alt="Personal candle packaging project" width="600" height="400">
+
+ </section>
+       
+</main>
+
+
+
+<br>
+<footer>
+       <p>
+    <address>
+        <a href="emailto:chelsea_frederick@elcamino.edu">chelsea_frederick@elcamino.edu</a></p>
+    </address>
+   <p>Last updated: <time datetime="2026-09-19">September 19, 2026</time></p>
+       
+</footer>
+
+  </body>
+</html>
