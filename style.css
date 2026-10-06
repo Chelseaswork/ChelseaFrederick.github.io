@@ -6,21 +6,27 @@ body {
 
 }
 
-#nav_bar {
+#nav_bar ul{
+    display: flex;
     list-style: none;
     text-decoration: none;
     gap: 20px;
-    
+    padding: 0;
+    margin: 0;
 }
 nav, nav a {
     background: #673174;
     font-family: Consolas, "Courier New", monospace;
     border-radius: 30px;
     line-height: 1.6;
-    font-color: white !important;
+    color: white !important;
     font-size: 10px;
     text-decoration: none;
 }
+
+nav a {
+    padding: 5px 15px;
+    display
 
 header {
     font-family: Helvetica, sans-serif;
