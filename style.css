@@ -3,10 +3,18 @@ body {
     font-size: 20px;
     max-width: 80%;
     margin: auto;
-
 }
-
-#nav_bar ul{
+main{
+    background: #D3D3D3;
+    border-radius: 30px;
+    float: left;
+}
+aside {
+    max-width: 20%;
+    float: right;
+        
+}
+#nav_bar ul {
     display: flex;
     list-style: none;
     text-decoration: none;
@@ -32,19 +40,12 @@ header {
     font-family: Helvetica, sans-serif;
     font-weight: bold;
 }
-
 h1 {
     font-size: 42px;
     color: #673174;
     
 }
 
-
-section{
-    background: #D3D3D3;
-    border-radius: 30px;
-
-}
 
 footer, footer p, footer address, footer a, footer time {
     font-size: 10px !important;
