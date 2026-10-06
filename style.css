@@ -9,6 +9,7 @@ main{
      width: 75%; 
 }
 aside {
+    margin-top: 60px; 
     max-width: 25%;
     float: right;
         
